@@ -1,0 +1,501 @@
+Student ID,Name,Age,Gender,Course,Department,Year,GPA,Attendance (%),City,Scholarship
+STU1000,Richard Alexander MD,19,Other,B.Tech,Electronics,1st,2.37,76.0,North Christopherville,Yes
+STU1001,Julie Macias,22,Female,BCA,Management,2nd,3.08,74.0,Taylorshire,No
+STU1002,Edward Decker,22,Male,BA,English,3rd,3.75,51.3,Brandonton,Yes
+STU1003,Becky Kelly,19,Other,B.Tech,Electronics,3rd,3.46,67.1,Lawrencefurt,Yes
+STU1004,Mary Good,23,Male,B.Tech,Management,3rd,3.61,69.0,Lake Jennaville,Yes
+STU1005,Scott Ross,19,Male,B.Sc,English,4th,3.32,69.9,East Philip,No
+STU1006,Mary Miller,24,Female,BA,Computer Science,4th,3.38,79.0,Zoeshire,No
+STU1007,John Flowers,18,Male,BA,Commerce,3rd,3.7,76.7,Farleyshire,Yes
+STU1008,John Proctor,24,Female,B.Tech,Management,4th,2.5,80.4,Port Lynn,Yes
+STU1009,Jacob Herman,20,Other,BA,Mathematics,3rd,2.98,88.2,Heatherfurt,Yes
+STU1010,Heather Burns,23,Other,B.Sc,Commerce,2nd,2.44,90.6,West Diana,Yes
+STU1011,Ann Jones,23,Male,BCA,English,4th,3.98,85.9,Kingfurt,Yes
+STU1012,Rachel Jenkins,21,Other,B.Sc,Commerce,3rd,3.89,97.8,Parksbury,No
+STU1013,Matthew Bonilla,17,Female,BCA,Mathematics,4th,2.08,50.9,Reynoldsfort,Yes
+STU1014,Natalie Lopez,20,Female,B.Com,English,1st,3.41,59.8,East Melissaberg,Yes
+STU1015,Charlene Smith,22,Female,B.Sc,English,1st,3.85,50.4,Rodriguezview,No
+STU1016,Marissa Clark,23,Male,B.Com,Mathematics,3rd,2.36,82.4,Frankside,No
+STU1017,Bryan Davis,19,Male,B.Tech,Commerce,3rd,3.14,94.9,Phambury,No
+STU1018,Tracy Brown,20,Male,BCA,Mathematics,3rd,3.83,62.2,Geraldtown,No
+STU1019,Bryan Blake,21,Female,B.Com,Electronics,1st,2.07,96.4,Davidfurt,No
+STU1020,Cynthia Roman,22,Female,B.Com,Computer Science,4th,3.39,53.0,Walkerview,No
+STU1021,Danielle Love,17,Female,B.Tech,Mathematics,1st,2.59,96.7,New Alexandra,No
+STU1022,Nathan Davis,17,Female,B.Com,English,3rd,3.85,67.6,Danielborough,Yes
+STU1023,Nancy Garrett,21,Male,BCA,Electronics,3rd,3.94,55.1,Wallacefurt,No
+STU1024,John Wood,21,Male,BCA,Computer Science,3rd,3.89,74.3,Port Tony,Yes
+STU1025,Randall Cooper,19,Male,B.Sc,Mathematics,3rd,2.95,62.8,West Waynetown,Yes
+STU1026,Laura Campbell,23,Male,B.Tech,Computer Science,3rd,3.72,64.2,Meadowsfort,Yes
+STU1027,Michele Reyes,17,Female,BA,Commerce,3rd,3.69,65.4,West Betty,Yes
+STU1028,Andrea Morris,22,Female,BCA,English,2nd,2.64,90.2,Scottville,Yes
+STU1029,Andrew Thompson,20,Other,B.Com,Mathematics,2nd,3.66,77.0,Youngside,No
+STU1030,Kyle Shaw,22,Other,BCA,English,2nd,2.07,65.6,Parksburgh,Yes
+STU1031,Brandon Khan,18,Other,BCA,Electronics,1st,3.19,80.5,Lake Rebecca,No
+STU1032,Haley Norman,18,Female,B.Sc,Electronics,4th,2.46,85.8,Lake Jenniferland,No
+STU1033,Donna Yang,21,Male,BA,Computer Science,3rd,2.24,63.6,Walshbury,Yes
+STU1034,Amber Moreno,19,Male,BCA,Electronics,2nd,2.15,70.7,Reginaldshire,No
+STU1035,Gregory Vazquez,18,Male,B.Tech,Management,1st,3.39,56.1,New Jasonshire,No
+STU1036,Lori Bullock,17,Female,BCA,Electronics,4th,2.68,59.1,Rickyton,No
+STU1037,Tracy Benitez,22,Other,B.Tech,Mathematics,3rd,3.45,84.1,South Madison,No
+STU1038,Donna Wallace,22,Male,B.Tech,English,3rd,2.13,59.1,Robinsonside,Yes
+STU1039,Derek Morales,21,Other,B.Sc,Management,4th,2.63,76.3,New Chelsey,No
+STU1040,Robert Ross,23,Other,BA,Computer Science,4th,3.08,85.5,Port Michael,Yes
+STU1041,Jerry Harrell,23,Female,B.Tech,Electronics,4th,3.58,55.3,Dennishaven,Yes
+STU1042,Nicole Valentine,20,Female,B.Sc,English,1st,2.64,78.4,Karenstad,Yes
+STU1043,Dustin Graham,21,Male,BBA,Commerce,2nd,3.25,62.8,South Sarah,No
+STU1044,Christina Cruz,24,Female,B.Sc,Mathematics,3rd,3.77,98.1,West Jody,No
+STU1045,Matthew Davidson,20,Female,BBA,Electronics,2nd,3.23,74.2,Stewartberg,Yes
+STU1046,Troy Garcia,24,Female,BCA,Electronics,4th,2.47,90.3,East Kimberlychester,No
+STU1047,Charles Welch,23,Male,BA,Electronics,3rd,2.05,77.5,Mariaview,No
+STU1048,Briana James,21,Other,B.Tech,English,3rd,3.74,52.2,South Clifford,Yes
+STU1049,Richard Lang,24,Other,B.Tech,Mathematics,2nd,2.04,81.7,Lake Rickystad,Yes
+STU1050,Adrian Green,21,Male,BCA,Management,2nd,3.75,97.6,New Rickey,Yes
+STU1051,Anthony Parks,21,Other,B.Com,Management,3rd,3.06,80.1,New Karen,Yes
+STU1052,Mark Gardner,23,Other,B.Tech,Mathematics,1st,3.88,91.0,West Nathan,Yes
+STU1053,Ryan Benson,20,Male,BA,English,4th,3.6,94.2,Evanstad,No
+STU1054,Nathan Alexander,20,Other,BCA,Computer Science,2nd,4.0,61.4,Lake Bobby,Yes
+STU1055,Robert Coffey,21,Female,B.Sc,Management,3rd,2.7,60.6,New Adamfort,No
+STU1056,Adam Thomas,18,Male,BA,Management,2nd,3.53,80.5,Melindaville,Yes
+STU1057,Ashley Bender,19,Male,B.Tech,Mathematics,3rd,2.8,70.6,Fletcherville,No
+STU1058,Vanessa Nunez,23,Female,B.Sc,English,1st,2.96,92.0,Loganberg,Yes
+STU1059,Casey Lester,19,Female,BA,English,2nd,3.26,95.0,Greenemouth,No
+STU1060,Nancy Simmons,19,Female,B.Tech,Electronics,3rd,3.75,67.7,West Dianeville,Yes
+STU1061,Sandra Campbell,20,Female,BCA,English,2nd,3.97,61.8,Craneberg,Yes
+STU1062,Connie Marquez,20,Male,B.Tech,Electronics,3rd,3.54,89.0,Brianfort,Yes
+STU1063,Lucas Fisher,18,Male,B.Tech,Commerce,4th,2.84,63.7,Harperton,Yes
+STU1064,Helen Smith,19,Male,B.Com,English,3rd,2.84,91.1,Williamsberg,No
+STU1065,Danielle Smith,19,Female,B.Com,Mathematics,3rd,3.48,71.2,Sullivanborough,Yes
+STU1066,Michael Flores,21,Female,B.Com,Electronics,3rd,2.48,83.4,Kimside,Yes
+STU1067,Ashley Smith,20,Female,B.Sc,Commerce,3rd,2.22,54.8,Fergusonmouth,Yes
+STU1068,Tara Smith,19,Female,BA,Computer Science,4th,2.71,81.2,South Kimberlyborough,Yes
+STU1069,Brooke Snyder,22,Female,B.Sc,Computer Science,1st,2.57,72.6,Port Manuel,No
+STU1070,Brianna Sims,18,Male,BCA,Computer Science,4th,2.59,79.3,South Paula,Yes
+STU1071,Lydia Myers PhD,24,Female,BCA,Electronics,1st,2.47,58.4,North Elizabethmouth,No
+STU1072,Samuel King,22,Female,B.Sc,English,1st,2.08,86.8,Port Cynthiashire,Yes
+STU1073,Kendra Thomas,22,Male,B.Tech,Electronics,4th,2.04,93.1,South Jefferychester,No
+STU1074,Jimmy Reed,24,Other,BBA,Computer Science,2nd,3.98,60.8,East Joel,Yes
+STU1075,Joseph Smith,23,Other,BBA,English,1st,2.86,54.8,Salazarport,Yes
+STU1076,Matthew Warner,23,Female,B.Tech,Commerce,4th,2.77,51.2,New Kathyborough,No
+STU1077,Linda Taylor,18,Other,BBA,Computer Science,3rd,3.36,82.1,Davisstad,No
+STU1078,Joshua Jones,22,Other,BCA,Mathematics,4th,2.44,80.4,East Robertland,No
+STU1079,Angela Rivers,19,Male,B.Sc,English,1st,3.9,77.3,Floreshaven,Yes
+STU1080,David Beard,20,Female,BA,Electronics,2nd,3.57,61.6,Thompsontown,Yes
+STU1081,Deborah Vasquez,18,Male,B.Com,Electronics,2nd,2.18,69.5,Jerryfurt,Yes
+STU1082,Amy Lawson,21,Male,BCA,Mathematics,2nd,2.84,79.7,Lake Josestad,No
+STU1083,Mr. Joshua Williams,24,Female,B.Sc,Management,3rd,3.76,74.8,Ayalaton,Yes
+STU1084,Mary Romero,22,Male,BCA,Electronics,4th,3.89,99.4,Port Stephanietown,Yes
+STU1085,Martin Jackson,18,Female,BCA,Mathematics,4th,2.93,56.8,Lake Bradleymouth,No
+STU1086,John Rodriguez,17,Female,B.Sc,Computer Science,2nd,3.23,84.8,Markmouth,No
+STU1087,Kyle Waller,17,Other,BA,Computer Science,3rd,2.33,70.2,New Matthewchester,No
+STU1088,Jessica Keller,23,Female,BBA,Electronics,2nd,3.98,71.4,South Wesleymouth,No
+STU1089,Francisco Malone,24,Female,BCA,English,1st,2.46,85.9,Gardnerchester,No
+STU1090,Gregory Clark,20,Female,BA,Management,4th,3.89,84.6,Johntown,Yes
+STU1091,Andrew Hughes,19,Female,B.Sc,Electronics,3rd,3.3,99.6,Scottfort,No
+STU1092,Joshua Petersen,20,Female,B.Tech,Computer Science,2nd,3.22,56.4,Kevinmouth,No
+STU1093,Rhonda Quinn,20,Other,B.Tech,English,3rd,3.03,55.2,New Brian,No
+STU1094,Brenda Gregory,20,Other,B.Sc,Mathematics,1st,2.46,86.2,Tamiborough,Yes
+STU1095,Adam Knight,24,Male,B.Tech,Computer Science,1st,2.35,78.9,Campbellhaven,Yes
+STU1096,Nathaniel Scott,20,Female,BBA,Mathematics,4th,2.44,63.7,Codyport,No
+STU1097,Dorothy Russo,21,Female,BCA,Management,3rd,2.37,54.0,Simmonsburgh,Yes
+STU1098,Jill Sanchez,24,Other,BA,Management,2nd,3.56,54.3,Richardland,Yes
+STU1099,Elizabeth Thomas,21,Other,B.Com,Commerce,2nd,2.7,94.7,North Davidfurt,No
+STU1100,Ashley Watts,24,Male,BA,English,2nd,2.12,59.6,Lake Emilymouth,No
+STU1101,Linda Stevenson DDS,23,Female,B.Com,Computer Science,4th,3.94,66.2,Port Jennifermouth,No
+STU1102,Shane Greene,18,Female,B.Sc,Mathematics,1st,3.77,61.3,Amyfurt,Yes
+STU1103,Alyssa Stevens,17,Male,B.Sc,Mathematics,2nd,3.86,67.7,Mackside,No
+STU1104,Mathew Bullock,20,Female,B.Com,Mathematics,4th,3.99,53.5,Jesusbury,No
+STU1105,William Stanton,23,Female,BCA,Electronics,4th,2.35,76.0,East Kurt,No
+STU1106,William Perez,18,Female,B.Tech,Electronics,4th,2.79,53.4,Tammyview,No
+STU1107,David Pena,17,Other,B.Sc,Management,4th,3.52,90.0,Diamondchester,No
+STU1108,Katherine Hendricks,22,Other,BBA,Commerce,4th,3.39,61.7,Michaelshire,No
+STU1109,Tim Ward MD,19,Other,BBA,Management,4th,2.31,77.0,Lake Alexander,No
+STU1110,Thomas Collins,21,Female,BBA,Commerce,1st,3.63,94.0,Schwartzburgh,Yes
+STU1111,Allison Petersen,22,Other,BCA,Management,1st,2.45,82.5,Shaunville,Yes
+STU1112,Brian Eaton,24,Male,BBA,Mathematics,2nd,2.45,76.6,Port Matthew,Yes
+STU1113,Amber Hoffman,17,Female,B.Com,Electronics,3rd,3.07,66.2,Gordonside,No
+STU1114,Aaron Cruz,22,Female,BCA,Management,1st,3.19,66.7,Mirandaville,Yes
+STU1115,Karen Mccall,19,Female,B.Tech,English,3rd,3.16,83.5,Lake Michellebury,Yes
+STU1116,Dr. Corey Medina,23,Female,BCA,Management,2nd,2.18,99.7,Seanfurt,No
+STU1117,Timothy Collins,17,Female,B.Com,English,1st,3.75,83.1,Martinezside,Yes
+STU1118,Kimberly Harris,22,Male,B.Sc,Mathematics,1st,2.53,77.9,Sarahhaven,Yes
+STU1119,Chad White,21,Other,BBA,Electronics,2nd,2.26,86.5,Mooreborough,Yes
+STU1120,Luis Williams,21,Male,BBA,Management,2nd,3.78,73.3,Port Lisa,Yes
+STU1121,Mary Cooper,18,Other,BBA,English,3rd,3.91,53.0,South Michele,No
+STU1122,Karen Hughes,22,Other,B.Sc,Electronics,3rd,3.72,78.1,North Stevenmouth,Yes
+STU1123,Erik Ross,20,Male,BCA,Commerce,2nd,3.62,97.9,Port Debraberg,Yes
+STU1124,Jennifer Morgan,22,Other,BA,Mathematics,1st,3.31,58.8,South Mark,No
+STU1125,Adrian Roman,23,Other,B.Com,Management,4th,3.1,84.5,New Lisachester,No
+STU1126,Oscar Jones,17,Male,BCA,Management,3rd,2.17,60.0,Port James,Yes
+STU1127,Stephanie Cummings,17,Other,B.Tech,Mathematics,2nd,2.82,76.8,Shawnville,No
+STU1128,Karen Walker,23,Female,B.Sc,Electronics,1st,2.75,54.8,Port Robertville,No
+STU1129,Matthew Alvarado,22,Other,BA,Electronics,1st,2.52,72.5,West Shanebury,Yes
+STU1130,Maria Gardner,23,Male,BA,Management,3rd,3.45,87.8,Mackfort,No
+STU1131,Cassandra Brown,19,Female,B.Tech,Computer Science,3rd,2.99,67.4,Haleytown,Yes
+STU1132,Mrs. Kelly Reed,24,Female,B.Sc,Management,4th,2.16,83.2,Christopherfurt,No
+STU1133,Joseph French,23,Other,BA,English,3rd,2.44,89.8,South Stephanie,Yes
+STU1134,Kenneth Harrison,21,Male,BCA,Commerce,4th,3.37,96.4,West Jamesport,No
+STU1135,Alexis Montgomery,23,Female,BBA,English,2nd,2.15,61.7,New Melodymouth,No
+STU1136,Tammy Miller,17,Other,B.Tech,Computer Science,3rd,3.7,70.0,Peterport,Yes
+STU1137,Charles Pierce,21,Female,BBA,Electronics,4th,2.99,57.6,Kimberlytown,Yes
+STU1138,Casey Day,17,Male,B.Tech,English,3rd,2.96,99.6,Carrshire,Yes
+STU1139,Elizabeth Hall,18,Other,B.Com,Mathematics,2nd,3.18,96.4,Calderontown,Yes
+STU1140,Melissa Mooney,20,Female,B.Com,English,2nd,3.65,77.0,Randallborough,No
+STU1141,Jasmine Santiago,17,Male,B.Sc,Electronics,4th,2.7,92.1,West Brenda,Yes
+STU1142,Francisco Nguyen,21,Female,BA,Management,1st,3.36,76.0,West Markmouth,Yes
+STU1143,Marissa Young,18,Other,BBA,English,2nd,3.13,81.2,East Lindsaymouth,Yes
+STU1144,James Gonzalez,17,Male,BA,Computer Science,2nd,2.53,54.5,Port Kimberly,No
+STU1145,Kenneth Bush,19,Other,B.Com,Commerce,2nd,3.76,87.8,Kimberlyport,No
+STU1146,Shelby Jackson,23,Female,BBA,Electronics,2nd,3.59,56.4,New Stephen,Yes
+STU1147,Monica Gray,20,Female,BCA,Mathematics,1st,3.32,91.3,East Christineville,Yes
+STU1148,Dr. Patricia Jones,17,Male,B.Sc,Management,2nd,3.7,89.1,East Oscartown,No
+STU1149,Michael Bell,18,Female,BA,Computer Science,1st,3.73,85.4,North Shane,Yes
+STU1150,Michele Dawson,19,Other,B.Tech,Electronics,3rd,3.42,51.8,South Valerie,Yes
+STU1151,Joseph Phillips,22,Female,B.Tech,Mathematics,1st,3.67,65.2,East Adamborough,No
+STU1152,Lauren Kramer,18,Other,BBA,Mathematics,4th,3.39,63.2,Port Jamesbury,No
+STU1153,Larry Harrison,23,Female,B.Tech,Electronics,3rd,3.36,68.0,Strongfurt,Yes
+STU1154,Stacie Arnold,18,Other,B.Tech,Management,1st,3.24,54.4,South Allisonborough,Yes
+STU1155,Jamie Lopez,19,Other,B.Com,Computer Science,1st,3.51,96.8,Johnfort,Yes
+STU1156,Matthew Ortega,18,Other,B.Sc,Management,1st,2.32,77.7,Joshuaside,No
+STU1157,Larry Davis,19,Female,B.Tech,Management,1st,3.76,65.3,Port Christineshire,No
+STU1158,Amanda Diaz,17,Other,B.Tech,Management,1st,3.74,69.8,Thomasmouth,No
+STU1159,Sarah Taylor,24,Male,BA,Management,1st,2.06,72.4,Morenoborough,No
+STU1160,Nicholas Estrada,19,Female,BBA,Mathematics,4th,3.65,80.0,Port Andrew,Yes
+STU1161,Lauren Lee,19,Other,B.Com,Commerce,4th,2.26,75.8,Meredithville,Yes
+STU1162,Amy Barker,20,Other,BCA,Computer Science,4th,2.67,96.0,West Victorland,No
+STU1163,Alexis Hamilton,19,Other,BCA,Mathematics,1st,3.49,74.8,Port Evanville,Yes
+STU1164,Joshua Perkins,19,Other,BBA,Electronics,3rd,2.32,99.6,Johnmouth,No
+STU1165,Brittany Adams,22,Male,BA,Electronics,4th,3.64,92.6,West Cherylton,No
+STU1166,Angela Jennings,24,Male,BA,Management,2nd,3.66,60.4,Littleview,Yes
+STU1167,Derek Morris,17,Male,BCA,Computer Science,2nd,3.01,96.5,Williamston,No
+STU1168,Tamara Luna DVM,23,Other,BA,Mathematics,1st,2.01,55.8,South Rickborough,No
+STU1169,Adam Collins,20,Other,B.Tech,Mathematics,3rd,2.57,90.9,North Brianview,No
+STU1170,Ashley Young,22,Female,BCA,Computer Science,4th,3.23,69.0,Jacobsview,Yes
+STU1171,Mark Watson,21,Male,BBA,Management,1st,3.96,93.9,North Daniel,No
+STU1172,Eric Mccarty,24,Other,BBA,Computer Science,3rd,3.26,93.4,Staceymouth,No
+STU1173,Danielle Mills,17,Other,BBA,Computer Science,2nd,2.52,90.3,Kyleburgh,Yes
+STU1174,John Anderson,17,Male,B.Sc,Commerce,4th,3.27,89.5,Thomasview,No
+STU1175,Michelle Ford,21,Other,B.Com,Commerce,1st,3.08,65.2,East Melissa,No
+STU1176,Emily Brown,23,Other,B.Tech,Management,1st,3.56,54.0,New Jameston,No
+STU1177,Scott Merritt,19,Other,B.Com,Commerce,3rd,2.21,70.1,Port Mariatown,No
+STU1178,John Johnson,22,Other,B.Tech,Electronics,1st,3.52,58.7,Bryceview,No
+STU1179,Dr. Judy Townsend DDS,18,Female,BBA,Commerce,1st,3.08,84.7,Bradville,Yes
+STU1180,Melissa Walker,20,Female,B.Sc,Commerce,4th,3.93,67.3,Christinemouth,Yes
+STU1181,Jonathan Mitchell,18,Female,B.Sc,Commerce,2nd,2.68,98.8,North Brittany,No
+STU1182,Michael Thompson,21,Male,BBA,Mathematics,2nd,3.27,82.0,East Maria,Yes
+STU1183,Jennifer Jones,17,Male,B.Com,English,3rd,3.86,91.1,South Jeremy,Yes
+STU1184,Matthew Patton,23,Male,BA,Commerce,2nd,2.21,56.6,South Jennifer,Yes
+STU1185,Michael Hahn,17,Female,BBA,Computer Science,3rd,3.87,93.1,Lisaborough,No
+STU1186,Brian Johnson,20,Male,BCA,Commerce,4th,3.38,96.1,New Marvin,Yes
+STU1187,Tina Larson,17,Other,BCA,English,3rd,2.14,74.4,East Larryview,Yes
+STU1188,Karen Newton,17,Other,BCA,Management,2nd,2.6,80.3,Smithland,Yes
+STU1189,Kelly Erickson,20,Other,BCA,Management,1st,3.42,88.2,New Jill,Yes
+STU1190,Shawn Stephens,22,Other,B.Tech,Electronics,4th,2.13,58.7,East Jessica,No
+STU1191,Christopher Reed,22,Other,B.Com,Electronics,2nd,3.16,75.1,New Jaychester,Yes
+STU1192,Brittany Carr,20,Other,BCA,Commerce,4th,2.69,69.9,New Sharon,Yes
+STU1193,Steve Allen,23,Other,BA,Computer Science,3rd,3.24,57.3,Cindyview,No
+STU1194,Jerry Carpenter,21,Male,BCA,Computer Science,2nd,2.09,68.4,Harrellbury,No
+STU1195,Mr. Ronald Turner,24,Female,B.Sc,Mathematics,1st,3.74,53.4,South Malikstad,Yes
+STU1196,Kelly George,17,Female,B.Tech,Computer Science,1st,3.95,51.3,South Faith,No
+STU1197,James Roberts,23,Female,B.Sc,Mathematics,1st,3.94,56.8,Christopherstad,No
+STU1198,Cory Sanchez,17,Female,B.Tech,Mathematics,1st,3.5,98.2,Robertoland,No
+STU1199,Dorothy Thomas,24,Other,BA,Computer Science,4th,2.26,77.5,Port Matthew,Yes
+STU1200,Grace Mcfarland,21,Other,B.Tech,Computer Science,2nd,3.52,98.3,Port Seanside,Yes
+STU1201,Crystal Guerrero,22,Other,BA,Mathematics,1st,2.05,71.6,South Kelly,No
+STU1202,Jason Larson,23,Other,BBA,Electronics,1st,2.04,65.6,West Erinchester,Yes
+STU1203,Julie Bowen,19,Male,BBA,Commerce,1st,2.65,75.3,East Deborahstad,Yes
+STU1204,Keith Hines,19,Female,B.Tech,Electronics,3rd,2.98,72.0,New Wesleyhaven,Yes
+STU1205,Lauren Simmons,24,Male,B.Com,Management,2nd,3.54,55.3,Angelborough,Yes
+STU1206,Patrick Rodgers,19,Female,BCA,Computer Science,4th,3.37,82.0,Jessicashire,Yes
+STU1207,Justin Gonzalez,22,Male,BCA,English,3rd,2.89,60.8,Anthonyview,Yes
+STU1208,David Collins,24,Female,BCA,Computer Science,3rd,2.55,81.0,East Jonathanton,Yes
+STU1209,Jennifer Rodriguez MD,22,Female,BCA,Mathematics,4th,3.99,82.5,Sarahbury,Yes
+STU1210,Ernest Moreno,21,Male,B.Sc,English,1st,2.85,57.6,Greenefurt,Yes
+STU1211,Ronald Brown,17,Male,B.Tech,English,1st,2.9,53.1,South Jasonbury,Yes
+STU1212,Connie Lee,21,Other,B.Tech,Commerce,2nd,2.33,89.0,Jamesmouth,No
+STU1213,Karen Powers,21,Male,BCA,Management,1st,3.59,73.0,Christineburgh,Yes
+STU1214,Ms. Angel Thompson,22,Female,B.Sc,Computer Science,3rd,3.39,52.9,Amandafort,No
+STU1215,Michael Williams,24,Female,BCA,Commerce,3rd,2.44,99.7,Zamoratown,Yes
+STU1216,Dawn Wilson,24,Female,B.Tech,Management,3rd,2.16,52.9,Rodriguezstad,No
+STU1217,Kyle Martinez,19,Female,B.Sc,Electronics,4th,3.36,84.8,East Sara,Yes
+STU1218,Jeff Rice,18,Male,BA,English,1st,3.31,99.2,West Joyce,Yes
+STU1219,Michelle Bryant,17,Other,B.Com,Commerce,1st,2.55,62.0,Onealside,No
+STU1220,Jesse Hughes,22,Female,BBA,Electronics,1st,3.9,57.1,Gloriabury,No
+STU1221,Jennifer Mclaughlin,19,Female,BBA,Computer Science,1st,2.3,56.1,East Johntown,No
+STU1222,Calvin Cook,23,Female,BCA,Computer Science,2nd,2.86,65.2,Kimberlyhaven,Yes
+STU1223,Christine Hernandez,18,Male,B.Com,Mathematics,2nd,3.89,55.1,Williamsport,Yes
+STU1224,Sherri Riddle,18,Female,B.Sc,Electronics,3rd,2.84,84.6,South Jeffrey,No
+STU1225,Ashley Gonzales,22,Other,B.Com,Electronics,3rd,3.28,53.1,Nicolemouth,Yes
+STU1226,James Rivera,20,Other,B.Sc,Commerce,4th,2.8,75.5,West Danielleside,Yes
+STU1227,Denise Sims,17,Female,BCA,Management,3rd,2.55,99.8,Jeremytown,No
+STU1228,Joseph Smith,18,Female,B.Com,English,1st,3.97,90.7,New Alexandraberg,Yes
+STU1229,Shannon Buckley,22,Male,BCA,Management,3rd,2.82,80.8,Bishopburgh,No
+STU1230,Barbara Gonzales,22,Female,B.Tech,Management,3rd,3.79,65.3,East Williammouth,No
+STU1231,Brandon Holder,19,Male,B.Tech,English,2nd,2.46,81.2,Jamesfort,Yes
+STU1232,Matthew Campbell,23,Other,B.Com,Mathematics,1st,2.43,76.4,Joshuatown,Yes
+STU1233,Charles Parker,20,Male,BA,Management,4th,2.06,71.3,Kington,No
+STU1234,Daniel Miller,17,Male,B.Com,Mathematics,4th,3.3,56.5,Josehaven,No
+STU1235,Yesenia Porter,24,Female,BBA,Mathematics,4th,2.74,94.3,Lake Anthony,Yes
+STU1236,Hannah Ray,21,Other,B.Tech,Electronics,3rd,3.73,72.5,East Kathy,Yes
+STU1237,Leah Sims,23,Male,B.Com,Computer Science,4th,2.95,59.7,South Jillside,Yes
+STU1238,Krista James,23,Other,BCA,Computer Science,4th,3.94,68.4,Riveraview,Yes
+STU1239,Sharon Miller,19,Male,BBA,Commerce,4th,2.37,70.7,Matthewfort,No
+STU1240,Karen Levine,24,Other,BCA,English,2nd,3.74,91.4,Tammyside,Yes
+STU1241,Justin Scott,18,Male,B.Tech,English,1st,3.55,86.7,West Laurenstad,Yes
+STU1242,Colton Smith,18,Other,BA,Commerce,2nd,3.54,88.5,Alishaborough,Yes
+STU1243,Matthew Martin,19,Male,BA,Electronics,1st,3.69,50.6,Clarkchester,No
+STU1244,Deborah Rose,22,Other,BBA,Computer Science,2nd,3.52,70.8,Port Kimberlyville,Yes
+STU1245,Taylor Fritz,18,Male,B.Com,Mathematics,1st,3.25,74.1,Lake Carolshire,Yes
+STU1246,Casey Cabrera,20,Female,B.Tech,Computer Science,4th,2.26,51.0,East Amanda,Yes
+STU1247,Stephanie Johnson,17,Other,BA,Commerce,4th,2.07,63.0,Cruztown,No
+STU1248,Maria Martin,23,Female,BBA,Computer Science,4th,3.84,88.0,Emilymouth,Yes
+STU1249,Andrew Ray,23,Female,B.Sc,Mathematics,2nd,3.23,56.9,Lake Christianton,Yes
+STU1250,Carol Bryan,20,Male,B.Com,Management,4th,3.59,76.8,Reynoldsport,No
+STU1251,Anna Andrews,24,Female,B.Sc,Management,3rd,2.96,60.8,East Nataliehaven,No
+STU1252,Matthew Wilson,18,Other,B.Com,English,1st,2.23,50.6,West Chadburgh,No
+STU1253,Beth Miller,23,Male,B.Tech,Commerce,2nd,2.25,62.1,East Justinburgh,Yes
+STU1254,Alexis Bowman,21,Male,BBA,Electronics,4th,3.37,98.8,Singhfort,No
+STU1255,Mrs. Stephanie Clark,24,Other,BCA,Computer Science,4th,2.86,90.1,Carterport,Yes
+STU1256,Benjamin Foley,17,Other,BCA,Computer Science,1st,2.4,98.0,Jamesburgh,No
+STU1257,Crystal Ray,17,Female,B.Tech,Electronics,4th,2.98,74.4,Lake Rebecca,No
+STU1258,Judy Miller DDS,23,Female,B.Sc,Electronics,4th,2.13,55.5,South Michael,No
+STU1259,Natasha Phillips,19,Male,BCA,Management,1st,3.16,77.4,Zacharyville,Yes
+STU1260,James Copeland,24,Other,BBA,Mathematics,1st,2.54,72.7,Jackmouth,No
+STU1261,Robert Williams,23,Other,B.Tech,Computer Science,3rd,3.6,92.2,Tracyhaven,Yes
+STU1262,Thomas Hines,19,Male,B.Tech,Commerce,3rd,2.62,54.9,Port Jorgestad,No
+STU1263,Jennifer Keith,23,Female,B.Tech,Computer Science,1st,2.91,74.4,Mollychester,No
+STU1264,Robert Brown,21,Other,B.Sc,Mathematics,2nd,2.02,57.5,Nicolehaven,Yes
+STU1265,Eric Garner,24,Female,B.Tech,Commerce,3rd,2.14,66.2,Nicoleshire,Yes
+STU1266,Elizabeth Matthews,22,Female,BA,Commerce,1st,2.78,86.9,Port Amanda,No
+STU1267,Mark Wilson,17,Male,B.Com,Commerce,4th,2.96,73.8,Lake Manuel,No
+STU1268,Abigail Sims,23,Other,BA,Management,2nd,3.2,68.8,Port Meredith,No
+STU1269,Jade Hernandez,21,Male,B.Sc,Mathematics,4th,2.58,69.7,South Christopher,Yes
+STU1270,Michael King,19,Male,B.Sc,Computer Science,3rd,3.39,73.0,West Melanie,Yes
+STU1271,Joseph Barker,19,Female,B.Tech,Management,4th,3.72,89.3,East Richard,Yes
+STU1272,Jennifer Jackson,17,Other,BBA,English,2nd,3.56,94.6,Anthonystad,Yes
+STU1273,Michelle Porter,20,Male,BCA,Commerce,1st,2.08,97.8,Adamsshire,Yes
+STU1274,Mrs. Haley Thomas DVM,23,Other,BCA,Electronics,1st,2.96,89.3,Port Eric,No
+STU1275,Michelle Freeman,24,Male,BCA,Mathematics,2nd,2.21,65.8,Brookehaven,Yes
+STU1276,Todd Williams,18,Other,BA,Commerce,4th,2.48,84.4,West Joseph,No
+STU1277,David Anderson,19,Male,B.Sc,Mathematics,4th,3.97,71.9,Richardtown,No
+STU1278,Michelle Edwards,24,Female,B.Com,Electronics,2nd,2.28,62.7,East Meganchester,No
+STU1279,Karen Maxwell,24,Female,B.Sc,Commerce,1st,3.0,92.0,North Jenniferchester,Yes
+STU1280,Ryan Stewart,22,Male,BA,Computer Science,4th,3.24,51.9,Dawnshire,Yes
+STU1281,Anthony Pugh,24,Female,BCA,Mathematics,3rd,3.4,95.1,Thompsontown,No
+STU1282,Paul Wright,24,Male,B.Com,Commerce,2nd,3.12,73.1,Lisaberg,No
+STU1283,John Perkins,22,Female,B.Com,Commerce,3rd,2.02,81.9,Nelsontown,No
+STU1284,Brad Blevins,19,Other,B.Tech,Mathematics,3rd,2.65,83.0,Holmesfort,No
+STU1285,Jennifer Horton PhD,24,Female,BBA,Electronics,1st,3.04,94.8,Port Kevin,No
+STU1286,Brian Montoya,20,Other,B.Com,Mathematics,2nd,2.18,81.8,North Clayton,No
+STU1287,Cheryl Nelson,20,Other,B.Tech,English,4th,2.7,80.7,Michealton,No
+STU1288,Lance Mathis,21,Female,BBA,Computer Science,4th,2.07,53.3,Lake Larry,Yes
+STU1289,Jeffrey Gould,22,Other,BCA,Electronics,2nd,2.16,75.9,Klineview,No
+STU1290,Christopher Mitchell,21,Female,B.Tech,Management,1st,2.79,57.5,Phillipmouth,No
+STU1291,Andrew Garza,22,Other,B.Sc,Management,4th,2.27,86.9,East Scottmouth,Yes
+STU1292,Kimberly Oneal,23,Female,B.Sc,Computer Science,4th,3.14,75.6,New Margaretborough,No
+STU1293,Juan Miller,23,Other,BBA,Computer Science,4th,3.38,84.0,East Nicholasmouth,No
+STU1294,Kelsey Dawson,24,Male,B.Tech,Management,1st,3.6,52.1,Port Kevinburgh,No
+STU1295,Tony Conley,18,Female,BA,Mathematics,4th,2.4,54.2,Johnsonview,No
+STU1296,Amanda Clark,23,Female,B.Tech,English,4th,2.33,85.8,North Allison,No
+STU1297,Ralph Greene,18,Female,BA,Commerce,3rd,2.21,53.6,Andersonview,No
+STU1298,Katie Coleman DVM,23,Other,B.Com,English,1st,3.27,53.6,Chelseaville,Yes
+STU1299,Rachel Barker,17,Male,B.Com,Electronics,4th,3.41,50.6,Port Meganhaven,Yes
+STU1300,Denise Jackson,23,Other,B.Com,English,1st,2.06,97.8,Catherineland,Yes
+STU1301,John Cooper,21,Other,B.Tech,Computer Science,1st,3.87,86.9,East Michael,No
+STU1302,Jennifer Huff,19,Female,BBA,Commerce,4th,2.1,67.7,New Andreahaven,Yes
+STU1303,James May,24,Other,BA,English,4th,3.08,64.8,East James,Yes
+STU1304,Eduardo Haynes,21,Other,B.Tech,Commerce,1st,3.42,67.5,Perkinsbury,Yes
+STU1305,Susan Maynard,19,Male,B.Com,English,1st,3.74,88.7,South Jessica,No
+STU1306,Thomas Williamson,20,Other,B.Sc,Management,1st,3.43,83.1,Lopezmouth,No
+STU1307,Kevin Walker,21,Male,B.Com,Commerce,3rd,3.6,59.3,West Stephaniehaven,Yes
+STU1308,Richard Skinner,20,Female,BBA,English,2nd,2.68,58.7,South Maria,Yes
+STU1309,Diane Miller,18,Male,B.Com,Electronics,4th,3.63,54.9,South Amandabury,No
+STU1310,Amber Frost,18,Male,BCA,Commerce,3rd,2.16,83.0,Espinozaton,Yes
+STU1311,Margaret Peterson,17,Female,BBA,Mathematics,3rd,3.79,88.2,South Rebeccaburgh,Yes
+STU1312,Teresa White,23,Male,B.Sc,Computer Science,1st,3.1,63.3,Lake Alexishaven,Yes
+STU1313,Destiny Wright,21,Male,BA,Commerce,2nd,3.63,51.0,West Rachelview,No
+STU1314,Lindsay Hopkins,20,Female,B.Com,Management,4th,2.9,54.1,New Heather,No
+STU1315,Andrew Alvarez,19,Other,BBA,Computer Science,3rd,3.29,98.4,Flynnton,Yes
+STU1316,Timothy Fernandez,18,Male,BA,English,4th,3.05,64.8,East Mariabury,Yes
+STU1317,Kristy Hernandez,23,Other,B.Sc,English,3rd,3.46,88.5,Robertview,No
+STU1318,Terri Martinez,18,Female,BCA,English,4th,2.16,81.2,South Natashaport,Yes
+STU1319,Brian Perez,19,Female,BBA,English,1st,2.12,69.1,Andersontown,No
+STU1320,Aaron Jenkins,23,Other,B.Sc,Management,1st,2.49,60.3,Wagnerport,Yes
+STU1321,Robert Shaw,23,Male,B.Sc,English,2nd,2.32,56.1,East Andreaton,Yes
+STU1322,Jennifer Flores,20,Other,B.Tech,Electronics,1st,3.74,80.8,Leeport,No
+STU1323,Mark Mann,20,Female,BA,Computer Science,3rd,2.44,88.7,Youngborough,No
+STU1324,Alicia Walker,21,Female,B.Tech,Commerce,3rd,3.95,82.2,Johnsonmouth,No
+STU1325,Katherine Perry DVM,21,Male,B.Sc,Electronics,3rd,2.67,76.5,East Christine,Yes
+STU1326,Sarah Shaffer,22,Female,BBA,Electronics,3rd,2.36,52.1,West Jordanshire,Yes
+STU1327,Katherine Harrell,24,Other,B.Com,Electronics,1st,3.58,98.4,South Stephen,No
+STU1328,Frank Chavez,22,Other,BCA,Electronics,1st,3.32,89.9,Lake Saramouth,No
+STU1329,Erin Terrell,17,Other,BCA,Electronics,2nd,3.0,64.6,Lake Dennisview,Yes
+STU1330,Michelle Harvey,18,Other,B.Tech,Computer Science,4th,3.11,99.0,Debrafurt,Yes
+STU1331,Ashley Robinson,21,Male,B.Com,Commerce,2nd,3.44,80.1,Proctorshire,No
+STU1332,Jason Frey,20,Other,B.Tech,Computer Science,4th,2.46,79.1,Alexisfort,Yes
+STU1333,Thomas Williams,19,Male,BCA,Management,1st,3.99,87.4,Larrystad,Yes
+STU1334,Cynthia Webb,20,Female,BA,Commerce,3rd,3.95,90.6,Lake Alexandriashire,Yes
+STU1335,Kelly Allen,18,Female,BCA,Electronics,2nd,3.3,82.8,North Chadberg,Yes
+STU1336,Sherry Moore DVM,22,Male,BCA,Management,2nd,2.4,56.4,Josephchester,Yes
+STU1337,Amber Fisher,20,Male,B.Com,Electronics,1st,3.36,66.9,East Lisa,No
+STU1338,Robert Brandt,24,Female,B.Tech,English,4th,2.14,96.4,Danafort,Yes
+STU1339,Alex Nelson,17,Female,B.Sc,Mathematics,2nd,2.06,61.2,Shelbytown,Yes
+STU1340,William Torres,18,Other,BBA,Mathematics,4th,2.52,68.6,Santiagoland,Yes
+STU1341,Jennifer Moreno,22,Male,B.Sc,Management,2nd,2.93,71.6,Harrisonmouth,Yes
+STU1342,Martin Conway,24,Female,BA,Computer Science,3rd,3.74,72.0,Destinyland,No
+STU1343,Jose Romero,19,Male,BA,Computer Science,1st,3.45,80.6,South Jacobbury,No
+STU1344,Jennifer Jackson,22,Female,B.Tech,Commerce,4th,3.49,97.2,Annetteton,No
+STU1345,Stephanie Mcdonald,23,Male,B.Sc,English,1st,2.85,62.0,Port Johnnyfort,No
+STU1346,Jason Henderson,24,Male,BCA,Commerce,1st,2.69,56.1,Lake Ronniemouth,No
+STU1347,Ashley Thompson,24,Female,B.Com,English,4th,2.74,59.9,North Lindatown,Yes
+STU1348,Joshua Rogers,17,Other,B.Tech,Mathematics,4th,3.98,94.3,Brianfort,Yes
+STU1349,Michael Richards,18,Other,B.Tech,Mathematics,2nd,2.08,82.3,Estradaport,Yes
+STU1350,Melissa Lawrence,19,Other,B.Sc,English,4th,3.73,64.3,West Annette,Yes
+STU1351,Ann Friedman,17,Female,BBA,Commerce,1st,3.16,90.8,Christinaburgh,No
+STU1352,Tamara Bryant,22,Female,BA,Computer Science,1st,2.88,93.1,Kaitlynburgh,No
+STU1353,Joshua Ibarra,17,Other,BCA,Management,4th,3.45,92.3,West Melissa,No
+STU1354,Brenda Holmes,24,Female,B.Com,English,4th,2.97,95.9,North Jenniferburgh,No
+STU1355,Travis Soto,18,Female,BA,English,2nd,3.75,62.6,Judithshire,Yes
+STU1356,Christian Clark,21,Other,BCA,English,2nd,3.8,87.8,Murphyfurt,Yes
+STU1357,Miranda Brown,17,Female,B.Tech,Commerce,2nd,2.84,73.0,South Megan,No
+STU1358,Juan Finley,23,Female,BBA,Computer Science,1st,2.55,92.1,Kingside,No
+STU1359,Benjamin Meyer,17,Male,B.Tech,Commerce,4th,3.18,86.4,Johnsonbury,Yes
+STU1360,Jennifer Mckee,22,Male,BBA,Electronics,3rd,3.82,88.8,Millerbury,No
+STU1361,Johnny Ayala,22,Other,B.Sc,Electronics,4th,2.42,82.8,Maryview,Yes
+STU1362,Sarah Cherry,19,Male,BCA,English,4th,3.25,58.9,Port Lorimouth,No
+STU1363,Ebony Cannon,22,Male,BA,English,2nd,3.26,77.3,Ryanshire,Yes
+STU1364,Matthew Jackson,20,Female,B.Tech,English,3rd,3.47,99.2,Lake Diamond,Yes
+STU1365,Ryan Reid,18,Male,BBA,Computer Science,4th,2.26,96.9,Lake Shelby,No
+STU1366,Jesus Smith,18,Female,BBA,Computer Science,3rd,3.43,52.2,New Keith,No
+STU1367,Andrew Flores,21,Male,B.Tech,English,3rd,3.82,58.2,Benderfurt,Yes
+STU1368,Maria Ross,21,Other,BA,Computer Science,4th,2.36,56.6,New Kristen,No
+STU1369,Benjamin Reyes,18,Female,BCA,Mathematics,2nd,2.48,86.3,Port Patriciaside,No
+STU1370,Todd Wiggins,23,Male,B.Sc,English,2nd,3.94,90.9,South Charlesstad,No
+STU1371,Kevin Trujillo,21,Female,B.Sc,Mathematics,4th,2.36,60.7,North Brent,No
+STU1372,Donald Lopez,19,Other,B.Com,Commerce,3rd,3.71,75.3,South Frederickton,No
+STU1373,Gabrielle Mitchell,22,Other,B.Com,Mathematics,3rd,2.98,92.0,Marshallhaven,Yes
+STU1374,Melissa Perez,18,Female,B.Com,Commerce,2nd,2.49,86.6,Jeffreyview,No
+STU1375,Christopher Decker,24,Other,BA,Management,2nd,3.74,77.1,Nicholasstad,No
+STU1376,Lynn Tran,21,Other,BCA,Commerce,2nd,2.89,79.5,East Sharon,No
+STU1377,Melissa Williams,18,Male,BCA,English,3rd,3.03,75.4,Marvinborough,Yes
+STU1378,Adam Little,20,Other,B.Com,English,3rd,2.72,64.9,Angelatown,No
+STU1379,Mariah Gomez,17,Male,B.Com,Commerce,2nd,3.19,78.3,Turnerview,Yes
+STU1380,Daniel Henry,22,Female,BA,Computer Science,2nd,2.33,84.4,East John,No
+STU1381,Michael Brandt,18,Other,B.Com,Electronics,3rd,2.78,93.7,South Cheyenne,Yes
+STU1382,William Robertson,17,Female,B.Sc,Mathematics,1st,3.94,81.8,East Anthonyview,No
+STU1383,Francis Bates,21,Other,B.Tech,Commerce,3rd,2.52,88.1,Garrisonside,Yes
+STU1384,Crystal Bradley,17,Male,B.Sc,Electronics,4th,3.31,58.0,Haasberg,Yes
+STU1385,Michael Cooper,22,Other,B.Sc,English,4th,2.65,73.1,Garciaside,No
+STU1386,Tyler Ross,18,Female,BBA,English,3rd,3.55,50.5,Lake Cheyenne,No
+STU1387,Joan Miller,20,Other,B.Tech,Management,4th,2.26,62.3,East Matthewton,No
+STU1388,Joel Mahoney,23,Male,B.Sc,Management,1st,3.94,86.3,Hughesside,Yes
+STU1389,Thomas Allen,21,Female,B.Tech,Commerce,1st,2.91,99.6,Hopkinsmouth,No
+STU1390,Joshua Jackson,18,Male,B.Sc,Computer Science,1st,2.47,55.0,East Eric,Yes
+STU1391,Megan Conway,22,Other,BA,Commerce,4th,2.15,70.1,Kimberlyville,No
+STU1392,Ricky Padilla,21,Other,BA,Mathematics,2nd,2.34,90.0,Claudiatown,Yes
+STU1393,Bernard Williams,19,Male,B.Com,Management,1st,3.04,60.2,Brownbury,No
+STU1394,Scott Salazar Jr.,17,Female,BA,Electronics,1st,2.67,77.8,Warnerhaven,No
+STU1395,Christina Cantrell MD,23,Male,B.Tech,Computer Science,2nd,3.66,86.7,Jasminestad,Yes
+STU1396,Christopher Cunningham,22,Female,BBA,Management,3rd,2.86,80.8,Dalestad,Yes
+STU1397,Joe Flynn,19,Female,B.Com,Commerce,2nd,2.5,59.4,North Jasonburgh,No
+STU1398,George Smith,24,Female,B.Sc,Mathematics,3rd,3.23,67.8,Joneshaven,No
+STU1399,Monica Rios,18,Male,BA,Mathematics,3rd,3.41,89.2,South Melissaside,No
+STU1400,Crystal Raymond,20,Female,B.Com,Computer Science,2nd,2.33,77.7,Jamesberg,Yes
+STU1401,Danny Ware,21,Male,BA,Mathematics,1st,2.34,50.3,North Maryland,No
+STU1402,Julia Knapp,17,Male,B.Com,Mathematics,3rd,2.07,88.0,Gloverchester,Yes
+STU1403,Elizabeth Giles,21,Male,B.Tech,Mathematics,2nd,3.47,51.8,Port Robin,Yes
+STU1404,Kelly Anderson,23,Other,B.Tech,Mathematics,1st,3.33,87.3,Morrisfurt,No
+STU1405,Shannon Anderson,18,Other,B.Sc,Commerce,3rd,2.95,60.1,Port Brandon,Yes
+STU1406,Edward Johnston,21,Other,BCA,Management,4th,3.69,97.9,Scottton,Yes
+STU1407,Andre Miller,17,Female,B.Com,Management,1st,3.61,68.4,Gregorymouth,Yes
+STU1408,Jennifer Thompson MD,18,Other,BCA,Computer Science,2nd,3.17,66.3,Cohenmouth,No
+STU1409,Daniel Thomas,21,Other,BCA,Electronics,4th,3.74,57.4,Adrianside,Yes
+STU1410,Crystal Carter,20,Other,BBA,Electronics,2nd,2.41,65.3,East Amanda,Yes
+STU1411,Eric Ferguson,22,Female,B.Tech,Mathematics,3rd,2.22,93.8,Lake Johnburgh,Yes
+STU1412,Bryan Osborne,18,Male,B.Sc,Management,1st,2.54,99.8,New Johnfurt,Yes
+STU1413,Jeffrey Hernandez,22,Other,B.Com,Commerce,4th,2.11,68.4,Moratown,No
+STU1414,Anna Sampson,24,Male,B.Sc,Mathematics,4th,3.06,72.4,South Omarbury,Yes
+STU1415,Brian Kelly,18,Male,B.Tech,Mathematics,4th,3.87,86.1,North William,Yes
+STU1416,Ashley Cole,20,Male,BCA,Management,3rd,2.08,94.3,New Travismouth,Yes
+STU1417,Dawn Watson,22,Male,B.Sc,Commerce,1st,2.24,79.7,West Tammy,Yes
+STU1418,Julia Watkins,19,Other,B.Com,English,1st,2.9,69.6,Danielborough,No
+STU1419,Traci Anderson,17,Female,BA,Management,3rd,3.87,70.6,East Valerie,Yes
+STU1420,Dana Cox,19,Other,BBA,Computer Science,2nd,2.63,84.8,South Danielle,Yes
+STU1421,Karen Clayton,21,Female,B.Tech,Electronics,4th,3.01,50.2,East Jamieland,No
+STU1422,Ronald Williams,20,Other,BCA,Commerce,2nd,2.08,81.0,Smithchester,No
+STU1423,Yvonne Gibson,19,Other,B.Com,Electronics,3rd,2.3,67.8,Walkerfort,No
+STU1424,William Myers,18,Male,B.Com,Commerce,2nd,3.97,89.7,Nelsonfort,No
+STU1425,Brandon House DDS,21,Female,B.Sc,Management,2nd,3.93,54.6,Johnsonside,No
+STU1426,Selena Zimmerman,21,Other,B.Tech,Commerce,3rd,2.01,79.4,South Daniel,No
+STU1427,Chris Johnson,19,Female,BA,English,4th,3.9,74.0,Palmerland,Yes
+STU1428,Jay Thompson,24,Female,BA,Mathematics,2nd,3.28,82.1,Kristenborough,No
+STU1429,Michelle Strickland,19,Other,BBA,Computer Science,1st,3.74,53.2,Johnsonport,No
+STU1430,Sarah Cunningham,24,Female,BCA,English,2nd,2.91,79.0,Mooreburgh,Yes
+STU1431,Dr. Lauren Ibarra,20,Other,BBA,Electronics,2nd,3.03,78.1,Donnastad,Yes
+STU1432,David Shah,17,Other,B.Sc,Computer Science,1st,2.98,78.0,New Stephenchester,Yes
+STU1433,Allen Dyer,19,Male,B.Tech,Mathematics,4th,3.33,80.2,South Nicole,No
+STU1434,Michael Christensen,23,Male,BA,Management,1st,2.28,83.8,Michaelbury,No
+STU1435,Thomas Garcia,24,Female,B.Tech,English,4th,2.06,90.2,North Deanna,Yes
+STU1436,Amy Hoover,19,Male,B.Sc,Commerce,3rd,2.62,63.5,Jonestown,No
+STU1437,Stacie Sweeney,22,Female,B.Tech,Electronics,3rd,3.41,91.3,Moralesshire,No
+STU1438,Tanya Farmer,18,Other,B.Tech,English,2nd,2.4,74.9,North Micheleside,Yes
+STU1439,Christopher Brown,23,Male,B.Tech,English,2nd,3.35,53.9,Andrewmouth,No
+STU1440,Leslie Smith,23,Other,B.Sc,Computer Science,3rd,3.94,52.9,Christopherbury,Yes
+STU1441,Nicholas Rogers,24,Male,B.Sc,Electronics,1st,2.19,66.7,Coxland,No
+STU1442,Michael Miller,22,Male,B.Sc,Electronics,3rd,3.35,89.2,North Rebeccastad,No
+STU1443,Bruce Martinez,22,Male,BA,Electronics,4th,2.89,85.4,Laurenburgh,Yes
+STU1444,Kathy Pena,21,Other,B.Com,Computer Science,2nd,3.74,89.4,Brandonmouth,Yes
+STU1445,Chad Gallegos,24,Female,BCA,Electronics,1st,2.35,75.9,Susantown,Yes
+STU1446,Luis Gamble,17,Male,BCA,Computer Science,2nd,3.39,72.0,Ryanshire,No
+STU1447,Crystal Luna,18,Other,BCA,Commerce,3rd,3.68,57.4,Ashleyfort,Yes
+STU1448,Bradley Watts,20,Female,B.Tech,Computer Science,1st,3.89,66.4,South Sandychester,No
+STU1449,Cynthia Bishop,23,Female,BBA,Mathematics,3rd,3.37,71.7,Lake Heidimouth,No
+STU1450,Shane Clark,20,Male,BBA,Management,4th,2.99,54.4,North Laurenchester,No
+STU1451,Tamara Kelly,19,Other,B.Com,Electronics,3rd,3.24,61.0,Lake Brittanyburgh,Yes
+STU1452,Zachary Ortiz,19,Other,B.Tech,Mathematics,1st,3.74,79.9,Hallbury,No
+STU1453,James Romero,20,Female,B.Tech,Mathematics,3rd,3.14,86.8,Meganfort,Yes
+STU1454,Larry Hinton,19,Other,B.Tech,Commerce,2nd,2.06,99.9,Nelsonside,No
+STU1455,Samantha Davies,17,Female,B.Sc,English,2nd,3.86,96.7,Shirleychester,No
+STU1456,Tammie Robinson,22,Female,BCA,Commerce,1st,3.38,82.1,Michaelfurt,No
+STU1457,Mary Vazquez,19,Female,BA,Management,2nd,3.35,71.1,Richardbury,No
+STU1458,Jessica Thompson,21,Male,B.Sc,Computer Science,4th,2.43,81.8,Lake Laura,Yes
+STU1459,Brian Knight,19,Other,B.Tech,Management,4th,3.32,89.3,East Gailstad,No
+STU1460,Michael Johnson,18,Male,B.Com,Computer Science,1st,2.79,55.9,North Joshua,No
+STU1461,Sarah Johnson,17,Female,B.Tech,Electronics,3rd,3.3,70.5,Rebeccaville,Yes
+STU1462,Michael Mccoy,18,Other,B.Tech,Mathematics,2nd,2.21,92.0,West Jessicaview,No
+STU1463,Donna Schneider,18,Other,BA,Commerce,2nd,3.32,69.2,Port Christopher,No
+STU1464,Raymond Kennedy,21,Female,B.Tech,English,3rd,4.0,78.6,Christopherbury,No
+STU1465,Gary Knight,17,Other,B.Sc,Commerce,3rd,2.1,79.4,East Brenda,No
+STU1466,Harold Lawson,17,Female,BBA,Electronics,3rd,3.95,59.2,South Katrinaton,No
+STU1467,David Johnson,24,Female,BA,Commerce,3rd,2.81,68.1,Nelsonfurt,No
+STU1468,Deborah Gibson,17,Female,BCA,English,2nd,3.74,66.7,Jonesview,Yes
+STU1469,Erin Carlson,17,Female,BA,English,4th,3.56,51.3,Port Amandabury,Yes
+STU1470,James Preston,17,Other,BA,Mathematics,1st,3.13,51.2,New Petermouth,Yes
+STU1471,William Lopez,21,Male,B.Tech,Mathematics,1st,3.48,91.6,West Carolyn,Yes
+STU1472,Jose Kennedy,19,Other,BA,Electronics,3rd,3.76,63.7,West Crystalstad,No
+STU1473,Michelle Harris,24,Male,BCA,Mathematics,4th,2.81,75.9,North Christopher,Yes
+STU1474,Christy Rojas,18,Other,BA,Management,2nd,2.65,64.9,Lake Janetchester,No
+STU1475,Dana Brooks,17,Female,B.Sc,Management,2nd,3.34,97.0,South Jacquelineton,No
+STU1476,Robert Lopez,23,Other,B.Com,Computer Science,1st,3.62,63.0,Royberg,Yes
+STU1477,Megan Simmons,19,Other,B.Sc,Mathematics,3rd,3.52,71.5,East Louishaven,Yes
+STU1478,Misty Morrow,19,Other,B.Sc,Computer Science,4th,3.6,93.6,Evansmouth,Yes
+STU1479,Andrew Holloway,18,Female,B.Com,Commerce,1st,2.87,92.1,Elizabethville,No
+STU1480,Felicia Schroeder,21,Male,B.Com,Computer Science,4th,3.64,59.3,Guzmanton,Yes
+STU1481,Dr. Adriana Smith,20,Other,BA,Electronics,3rd,2.24,90.1,Robertton,Yes
+STU1482,Dana Owens,20,Female,B.Sc,English,3rd,3.09,72.9,Port Brianside,No
+STU1483,Gregory Sanders,19,Male,B.Tech,Electronics,1st,2.01,74.1,Port Elizabethside,No
+STU1484,Matthew Wells,22,Female,BBA,Electronics,3rd,2.65,56.7,Herreratown,Yes
+STU1485,Marisa Rodriguez,22,Male,BBA,Management,4th,2.73,54.0,East Ericview,No
+STU1486,Alex Garcia,18,Female,BBA,Electronics,4th,2.79,86.4,Nixonview,No
+STU1487,David Rodriguez,20,Female,B.Sc,Management,1st,3.39,74.8,New Matthewhaven,No
+STU1488,Ronald Cantrell,19,Female,BCA,Electronics,3rd,2.78,71.8,North Cameron,No
+STU1489,Patrick Gonzales,21,Female,B.Com,Mathematics,2nd,2.9,86.5,Lake Stephanie,Yes
+STU1490,Austin Malone,20,Female,BA,Management,3rd,2.48,88.3,Browningchester,No
+STU1491,Kathryn Scott,19,Other,BA,Commerce,1st,2.75,57.9,Patrickton,Yes
+STU1492,Valerie King,19,Other,BBA,English,1st,2.45,80.5,Andreaview,Yes
+STU1493,Cody Rodriguez,17,Male,BA,Computer Science,2nd,2.15,56.8,Brianabury,Yes
+STU1494,Taylor Phillips,21,Other,B.Tech,Management,1st,3.21,87.6,East Tracey,Yes
+STU1495,Savannah Lutz,17,Female,B.Tech,Computer Science,1st,3.34,82.8,West Lisamouth,No
+STU1496,Maria Chapman,18,Female,B.Com,Commerce,2nd,3.24,97.8,New Brettville,No
+STU1497,Daniel Landry,17,Other,BA,Electronics,2nd,2.93,53.4,Audreystad,Yes
+STU1498,Christine Morris,23,Male,B.Sc,Management,4th,2.76,52.9,New Anna,No
+STU1499,Victoria King,17,Male,BA,Electronics,1st,3.73,64.1,Amandafurt,No
